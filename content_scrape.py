@@ -46,9 +46,10 @@ for ref in ref_list[:-1]:
     # Get header container for movie rating and length
     header_lines = soup.find('div', {'class': 'sc-80d4314-2 iJtmbR'}).find_all('li')
     for line in header_lines:
-        if line.get('href') is not None:
-            if 'parentalguide' in line.get('href'):
-                rating = line.text
+        if line.a is not None:
+            if line.a.get('href') is not None:
+                if 'parentalguide' in line.a.get('href'):
+                    rating = line.span.text
         if ('m' in line.text or 'h' in line.text) and line.text[0].isdigit():
             length = line.text
             # Convert hour/min format to minutes
@@ -60,7 +61,6 @@ for ref in ref_list[:-1]:
                 minutes = length[:-1]
 
             length = int(minutes) + 60 * int(hours)
-
     # Get star rating
     stars = soup.body.find('div', {'class': 'sc-7ab21ed2-2 kYEdvH'}).text
     stars = stars.split('/')[0]
@@ -84,10 +84,8 @@ for ref in ref_list[:-1]:
         content_type = 'Short'
 
     title_info.loc[len(title_info.index)] = [title, content_type, release_year, release_month, release_day, rating, length, stars, str(genres)]
-    sleep(random.randint(2,5))
 print(title_info)
 
 title_info.to_csv('marvel_titles.csv', index=False)
 
 print(base_url + ref_list[0])
-
