@@ -110,7 +110,7 @@ Captain Marvel,Bret Johnson,,Pete Ploszek
 Captain Marvel,Spider,,Matthew 'Spider' Kimmel
 Captain Marvel,Cajun,,Stephen 'Cajun' Del Bagno
 Iron Man,Tony Stark,Iron Man,Robert Downey Jr.
-Iron Man,Rhodey,War Machine,Terrence Howard
+Iron Man,James Rhodes,War Machine,Terrence Howard
 Iron Man,Obadiah Stane,Iron monger/Obi,Jeff Bridges
 Iron Man,Pepper Potts,,Gwyneth Paltrow
 Iron Man,Christine Everhart,Ms. Brown,Leslie Bibb
@@ -125,7 +125,7 @@ Iron Man,William Ginter Riva,,Peter Billingsley
 Iron Man,Major Allen,,Tim Guinee
 Iron Man 2,Tony Stark,,Robert Downey Jr.
 Iron Man 2,Pepper Potts,,Gwyneth Paltrow
-Iron Man 2,Lt. Col. James 'Rhodey' Rhodes,War machine,Don Cheadle
+Iron Man 2,James Rhodes,War machine,Don Cheadle
 Iron Man 2,Natalie Rushman/Natasha Romanoff,Black Widow,Scarlett Johansson
 Iron Man 2,Justin Hammer,,Sam Rockwell
 Iron Man 2,Ivan Vanko,Whiplash,Mickey Rourke
@@ -198,7 +198,7 @@ Marvel One-Shot: Item 47,Agent Jasper Sitwell,,Maximiliano Hernández
 Marvel One-Shot: Item 47,Agent Blake,,Titus Welliver
 Iron Man 3,Tony Stark,Iron Man,Robert Downey Jr.
 Iron Man 3,Pepper Potts,,Gwyneth Paltrow
-Iron Man 3,Lt. Col. James 'Rhodey' Rhodes,War Machine,Don Cheadle
+Iron Man 3,James Rhodes,War Machine,Don Cheadle
 Iron Man 3,Aldrich Killian,Mandarin,Guy Pearce
 Iron Man 3,Maya Hansen,,Rebecca Hall
 Iron Man 3,Happy Hogan,,Jon Favreau
@@ -1297,7 +1297,7 @@ Captain America: Civil War,Tony Stark,Iron Man,Robert Downey Jr.
 Captain America: Civil War,Natasha Romanoff,Black Widow,Scarlett Johansson
 Captain America: Civil War,Bucky Barnes,Winter Soldier,Sebastian Stan
 Captain America: Civil War,Sam Wilson,Falcon,Anthony Mackie
-Captain America: Civil War,Lieutenant James Rhodes,War Machine,Don Cheadle
+Captain America: Civil War,James Rhodes,War Machine,Don Cheadle
 Captain America: Civil War,Clint Barton,Hawkeye,Jeremy Renner
 Captain America: Civil War,T'Challa,Black Panther,Chadwick Boseman
 Captain America: Civil War,Vision,,Paul Bettany
@@ -2034,8 +2034,8 @@ Shang-Chi and the Legend of the Ten Rings,Jon Jon,,Ronny Chieng
 Shang-Chi and the Legend of the Ten Rings,Yuchen,,Stella Ye
 Shang-Chi and the Legend of the Ten Rings,Gao Lei,,Fernando Chien
 Shang-Chi and the Legend of the Ten Rings,Klev,,Zach Cherry
-The Falcon and the Winter Soldier,Falcon,,Anthony Mackie
-The Falcon and the Winter Soldier,Bucky Barnes,,Sebastian Stan
+The Falcon and the Winter Soldier,Sam Wilson,Falcon,Anthony Mackie
+The Falcon and the Winter Soldier,Bucky Barnes,Winter Soldier,Sebastian Stan
 The Falcon and the Winter Soldier,John Walker,,Wyatt Russell
 The Falcon and the Winter Soldier,Karli Morgenthau,,Erin Kellyman
 The Falcon and the Winter Soldier,Dovich,,Desmond Chiam
@@ -2073,18 +2073,18 @@ The Falcon and the Winter Soldier,Major,,Jon Briddell
 The Falcon and the Winter Soldier,Carlos,,Charles Black
 The Falcon and the Winter Soldier,Oeznik,,Nicholas Pryor
 The Falcon and the Winter Soldier,Ayla,,Jane Rumbaua
-The Falcon and the Winter Soldier,James Rhodes,,Don Cheadle
+The Falcon and the Winter Soldier,James Rhodes,War Machine,Don Cheadle
 The Falcon and the Winter Soldier,Matias,,Ness Bautista
 The Falcon and the Winter Soldier,Unique,,Ian Gregg
 The Falcon and the Winter Soldier,Alonso Barber,,Mike Ray
 The Falcon and the Winter Soldier,Sara Haines,,Sara Haines
-Thor: Love and Thunder,Thor,,Chris Hemsworth
+Thor: Love and Thunder,Thor,God of Thunder,Chris Hemsworth
 Thor: Love and Thunder,Jane Foster,The Mighty Thor,Natalie Portman
-Thor: Love and Thunder,Gorr,,Christian Bale
+Thor: Love and Thunder,Gorr,The God Buthcher,Christian Bale
 Thor: Love and Thunder,King Valkyrie,,Tessa Thompson
 Thor: Love and Thunder,Korg,Old Kronan God,Taika Waititi
 Thor: Love and Thunder,Zeus,,Russell Crowe
-Thor: Love and Thunder,Sif,,Jaimie Alexander
+Thor: Love and Thunder,Sif,Lady Sif,Jaimie Alexander
 Thor: Love and Thunder,Heimdall,,Idris Elba
 Thor: Love and Thunder,Peter Quill,Star-Lord,Chris Pratt
 Thor: Love and Thunder,Drax,,Dave Bautista
@@ -2101,20 +2101,14 @@ Thor: Love and Thunder,Hercules,,Brett Goldstein
 Thor: Love and Thunder,King Yakan,,Stephen Curry
 Thor: Love and Thunder,Selvig,,Stellan Skarsgård
 Thor: Love and Thunder,Habooska the Horrible,,Bobby Holland Hanton
-Thor: Love and Thunder,Actor Thor,,Luke Hemsworth
-Thor: Love and Thunder,Actor Loki,,Matt Damon
-Thor: Love and Thunder,Darryl the Tour Guide,,Daley Pearson
-Thor: Love and Thunder,Asgard Tourist,,Dianne Close
-Thor: Love and Thunder,Actor Odin,,Sam Neill
-Thor: Love and Thunder,Actor Hela,,Melissa McCarthy
 Peter's To-Do List,Peter Parker,Spider-Man,Tom Holland
 Peter's To-Do List,Ned Leeds,,Jacob Batalon
 Peter's To-Do List,Mr. Delmar,,Hemky Madera
 Peter's To-Do List,Flash Thompson,,Tony Revolori
 Spider-Man: Far from Home,Peter Parker,Spider-Man,Tom Holland
-Spider-Man: Far from Home,Nick Fury,,Samuel L. Jackson
+Spider-Man: Far from Home,Nick Fury,Director Fury,Samuel L. Jackson
 Spider-Man: Far from Home,Quentin Beck,Mysterio,Jake Gyllenhaal
-Spider-Man: Far from Home,May Parker,,Marisa Tomei
+Spider-Man: Far from Home,May Parker,Aunt May,Marisa Tomei
 Spider-Man: Far from Home,Happy Hogan,,Jon Favreau
 Spider-Man: Far from Home,MJ,,Zendaya
 Spider-Man: Far from Home,Ned Leeds,,Jacob Batalon
@@ -2140,8 +2134,8 @@ Spider-Man: Far from Home,Janice,,Claire Rushbrook
 Spider-Man: Far from Home,J. Jonah Jameson,,J.K. Simmons
 Spider-Man: Far from Home,E.D.I.T.H.,,Dawn Michelle King
 Spider-Man: No Way Home,Peter Parker,Spider-Man,Tom Holland
-Spider-Man: No Way Home,MJ,,Zendaya
-Spider-Man: No Way Home,Doctor Strange,,Benedict Cumberbatch
+Spider-Man: No Way Home,Mary Jain,MJ,Zendaya
+Spider-Man: No Way Home,Dr. Stephen Strange,Doctor Strange,Benedict Cumberbatch
 Spider-Man: No Way Home,Ned Leeds,,Jacob Batalon
 Spider-Man: No Way Home,Happy Hogan,,Jon Favreau
 Spider-Man: No Way Home,Max Dillon,Electro,Jamie Foxx
@@ -2162,7 +2156,7 @@ Spider-Man: No Way Home,J. Jonah Jameson,,J.K. Simmons
 Spider-Man: No Way Home,Dr. Curt Connors,The Lizard,Rhys Ifans
 Spider-Man: No Way Home,Matt Murdock,,Charlie Cox
 Spider-Man: No Way Home,Flint Marko,Sandman,Thomas Haden Church
-Doctor Strange in the Multiverse of Madness,Doctor Stephen Strange,,Benedict Cumberbatch
+Doctor Strange in the Multiverse of Madness,Dr. Stephen Strange,Doctor strange,Benedict Cumberbatch
 Doctor Strange in the Multiverse of Madness,Wanda Maximoff,The Scarlet Witch,Elizabeth Olsen
 Doctor Strange in the Multiverse of Madness,Baron Mordo,,Chiwetel Ejiofor
 Doctor Strange in the Multiverse of Madness,Wong,,Benedict Wong
@@ -2171,9 +2165,9 @@ Doctor Strange in the Multiverse of Madness,Dr. Christine Palmer,,Rachel McAdams
 Doctor Strange in the Multiverse of Madness,Tommy Maximoff,,Jett Klyne
 Doctor Strange in the Multiverse of Madness,Billy Maximoff,,Julian Hilliard
 Doctor Strange in the Multiverse of Madness,Dr. Nic West,,Michael Stuhlbarg
-Doctor Strange in the Multiverse of Madness,Captain Carter,,Hayley Atwell
+Doctor Strange in the Multiverse of Madness,Peggy Carter,Agent Carter,Hayley Atwell
 Doctor Strange in the Multiverse of Madness,Black Bolt,,Anson Mount
-Doctor Strange in the Multiverse of Madness,Captain Marvel,,Lashana Lynch
+Doctor Strange in the Multiverse of Madness,Carol Denvers,Captain Marvel,Lashana Lynch
 Doctor Strange in the Multiverse of Madness,Reed Richards,,John Krasinski
 Doctor Strange in the Multiverse of Madness,Professor Charles Xavier,,Patrick Stewart
 Doctor Strange in the Multiverse of Madness,Clea,,Charlize Theron
@@ -2189,7 +2183,7 @@ Doctor Strange in the Multiverse of Madness,The Weasel,,Charlie Norton
 Doctor Strange in the Multiverse of Madness,Elena Chavez,,Ruth Livier
 Doctor Strange in the Multiverse of Madness,Amalia Chavez,,Chess Lopez
 Doctor Strange in the Multiverse of Madness,Kamar-Taj Teacher,,David Tse
-Hawkeye,Clint Barton,,Jeremy Renner
+Hawkeye,Clint Barton,Hawkeye,Jeremy Renner
 Hawkeye,Kate Bishop,,Hailee Steinfeld
 Hawkeye,Eleanor Bishop,,Vera Farmiga
 Hawkeye,Jack Duquesne,,Tony Dalton
@@ -2203,7 +2197,7 @@ Hawkeye,Enrique,,Carlos Navarro
 Hawkeye,Lila Barton,,Ava Russo
 Hawkeye,Cooper Barton,,Ben Sakamoto
 Hawkeye,Grills,,Clayton English
-Hawkeye,Yelena,,Florence Pugh
+Hawkeye,Yelena Boleva,,Florence Pugh
 Hawkeye,Detective Caudle,,Ivan Mbakop
 Hawkeye,Wendy,,Adetinpo Thomas
 Hawkeye,Orville,,Robert Walker Branchaud
@@ -2332,12 +2326,12 @@ Werewolf by Night,Billy Swan,,Al Hamacher
 Werewolf by Night,Ted (The Man-Thing),,Carey Jones
 Werewolf by Night,The Flaming Tuba,,David Silverman
 Werewolf by Night,Ulysses Bloodstone,,Richard Dixon
-Secret Invasion,Nick Fury,,Samuel L. Jackson
+Secret Invasion,Nick Fury,Director Fury,Samuel L. Jackson
 Secret Invasion,Talos,,Ben Mendelsohn
 Secret Invasion,Maria Hill,,Cobie Smulders
 Secret Invasion,Special Agent Sonya Falsworth,,Olivia Colman
 Secret Invasion,Rebel Skrull leader Gravik,,Kingsley Ben-Adir
 Secret Invasion,Fiz,,Killian Scott
 Secret Invasion,FSB Commander,,Ventsislav Yankov
-Secret Invasion,James Rhodes,,Don Cheadle
+Secret Invasion,James Rhodes,War Machine,Don Cheadle
 Secret Invasion,Everett K. Ross,,Martin Freeman
