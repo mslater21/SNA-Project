@@ -6,19 +6,14 @@ Captain America: The First Avenger,Colonel Chester Phillips,,Tommy Lee Jones
 Captain America: The First Avenger,Johann Schmidt,Red Skull,Hugo Weaving
 Captain America: The First Avenger,Howard Stark,,Dominic Cooper
 Captain America: The First Avenger,Heinz Kruger,,Richard Armitage
-Captain America: The First Avenger,Dr. Abraham Erskine,,Stanley Tucci
 Captain America: The First Avenger,Nick Fury,Director Fury,Samuel L. Jackson
 Captain America: The First Avenger,Dr. Arnim Zola,,Toby Jones
 Captain America: The First Avenger,Timothy 'Dum Dum' Dugan,,Neal McDonough
-Captain America: The First Avenger,Gabe Jones,,Derek Luke
 Captain America: The First Avenger,Jim Morita,,Kenneth Choi
-Captain America: The First Avenger,James Montgomery Falsworth,,JJ Feild
-Captain America: The First Avenger,Jacques Dernier,,Bruno Ricci
-Captain America: The First Avenger,Senator Brandt,,Michael Brandon
 Marvel One-Shot: Agent Carter,Peggy Carter,,Hayley Atwell
 Marvel One-Shot: Agent Carter,Agent Flynn,,Bradley Whitford
 Marvel One-Shot: Agent Carter,Howard Stark,,Dominic Cooper
-Marvel One-Shot: Agent Carter,Dum Dum Dugan,,Neal McDonough
+Marvel One-Shot: Agent Carter,Timothy 'Dum Dum' Dugan,,Neal McDonough
 Agent Carter,Peggy Carter,,Hayley Atwell
 Agent Carter,Edwin Jarvis,,James D'Arcy
 Agent Carter,Daniel Sousa,,Enver Gjokaj
@@ -40,9 +35,8 @@ Agent Carter,Hank,,Chris Coppola
 Agent Carter,Agent Ford,,Brian Glanney
 Agent Carter,Carol,,Benita Robledo
 Agent Carter,Agent Fisher,,Kevin Ashworth
-Agent Carter,Isodyne Receptionist,,Angela Cristantello
 Agent Carter,Agent Blackwell,,Russell Edge
-Agent Carter,Dum-Dum Dugan,,Neal McDonough
+Agent Carter,Timothy 'Dum Dum' Dugan,,Neal McDonough
 Agent Carter,Happy Sam Sawyer,,Leonard Roberts
 Agent Carter,Dr. Arnim Zola,,Toby Jones
 Agent Carter,Detective Andrew Henry,,Sean O'Bryan
@@ -56,9 +50,7 @@ Captain Marvel,Ronan,,Lee Pace
 Captain Marvel,Maria Rambeau,,Lashana Lynch
 Captain Marvel,Minn-Erva,,Gemma Chan
 Captain Marvel,Agent Coulson,,Clark Gregg
-Captain Marvel,Young Carol (13 Years Old),,Mckenna Grace
 Captain Marvel,Monica Rambeau (11 Years Old),,Akira Akbar
-Captain Marvel,Cadet Officer,,Stephen A. Chang
 Iron Man,Tony Stark,Iron Man,Robert Downey Jr.
 Iron Man,James Rhodes,War Machine,Terrence Howard
 Iron Man,Obadiah Stane,Iron monger/Obi,Jeff Bridges
@@ -75,7 +67,7 @@ Iron Man,Major Allen,,Tim Guinee
 Iron Man 2,Tony Stark,,Robert Downey Jr.
 Iron Man 2,Pepper Potts,,Gwyneth Paltrow
 Iron Man 2,James Rhodes,War machine,Don Cheadle
-Iron Man 2,Natalie Rushman/Natasha Romanoff,Black Widow,Scarlett Johansson
+Iron Man 2,Natasha Romanoff,Black Widow,Scarlett Johansson
 Iron Man 2,Justin Hammer,,Sam Rockwell
 Iron Man 2,Ivan Vanko,Whiplash,Mickey Rourke
 Iron Man 2,Nick Fury,Director Fury,Samuel L. Jackson
@@ -86,7 +78,7 @@ Iron Man 2,JARVIS,,Paul Bettany
 Iron Man 2,Christine Everhart,Ms. Brown,Leslie Bibb
 Iron Man 2,Happy Hogan,,Jon Favreau
 Marvel One-Shot: A Funny Thing Happened on the Way to Thor's Hammer,Agent Coulson,,Clark Gregg
-Thor,God of Thunder,Hammer,Chris Hemsworth
+Thor,Thor,God of Thunder,Chris Hemsworth
 Thor,Jane Foster,,Natalie Portman
 Thor,Loki,God of Mischief,Tom Hiddleston
 Thor,Odin,God of war,Anthony Hopkins
@@ -104,9 +96,8 @@ Thor,Agent Sitwell,,Maximiliano Hernández
 The Incredible Hulk,Bruce Banner,The Hulk,Edward Norton
 The Incredible Hulk,Betty Ross,,Liv Tyler
 The Incredible Hulk,Emil Blonsky,,Tim Roth
-The Incredible Hulk,General 'Thunderbolt' Ross,,William Hurt
+The Incredible Hulk,Secretary Ross,,William Hurt
 The Incredible Hulk,Samuel Sterns,,Tim Blake Nelson
-The Incredible Hulk,Voice of The Incredible Hulk,Security Guard,Lou Ferrigno
 Marvel One-Shot: The Consultant,Agent Coulson,,Clark Gregg
 Marvel One-Shot: The Consultant,Agent Sitwell,,Maximiliano Hernández
 Marvel One-Shot: The Consultant,Night Waitress,,Deborah Knox
@@ -118,16 +109,16 @@ The Avengers,Natasha Romanoff,Black Widow,Scarlett Johansson
 The Avengers,Clint Barton,Hawkeye,Jeremy Renner
 The Avengers,Loki,God of mischief,Tom Hiddleston
 The Avengers,Agent Coulson,Phil Coulson,Clark Gregg
-The Avengers,Agent Maria Hill,,Cobie Smulders
-The Avengers,Selvig,,Stellan SkarsgårdFF
+The Avengers,Maria Hill,,Cobie Smulders
+The Avengers,Erik Selvig,,Stellan SkarsgårdFF
 The Avengers,Nick Fury,Director Fury,Samuel L. Jackson
 The Avengers,Pepper Potts,,Gwyneth Paltrow
-The Avengers,Jarvis,,Paul Bettany
+The Avengers,JARVIS,,Paul Bettany
 The Avengers,Pat Kiernan,,Pat Kiernan
 The Avengers,Thomas Roberts,,Thomas Roberts
 Marvel One-Shot: Item 47,Claire Weiss,,Lizzy Caplan
 Marvel One-Shot: Item 47,Bennie Pollock,,Jesse Bradford
-Marvel One-Shot: Item 47,Agent Jasper Sitwell,,Maximiliano Hernández
+Marvel One-Shot: Item 47,Agent Sitwell,,Maximiliano Hernández
 Marvel One-Shot: Item 47,Agent Blake,,Titus Welliver
 Iron Man 3,Tony Stark,Iron Man,Robert Downey Jr.
 Iron Man 3,Pepper Potts,,Gwyneth Paltrow
@@ -173,16 +164,14 @@ Agents of S.H.I.E.L.D.,Aida,,Mallory Jansen
 Agents of S.H.I.E.L.D.,Raina,,Ruth Negga
 Agents of S.H.I.E.L.D.,Jeffrey Mace,,Jason O'Mara
 Agents of S.H.I.E.L.D.,Calvin Zabo,,Kyle MacLachlan
-Agents of S.H.I.E.L.D.,Mike Peterson,,J. August Richards
+Agents of S.H.I.E.L.D.,Mike Peterson,Deathlok,J. August Richards
 Agents of S.H.I.E.L.D.,Sunil Bakshi,,Simon Kassianides
-Agents of S.H.I.E.L.D.,Burrows,,Patrick Cavanaugh
 Agents of S.H.I.E.L.D.,Gideon Malick,,Powers Boothe
 Agents of S.H.I.E.L.D.,Jiaying,,Dichen Lachman
 Agents of S.H.I.E.L.D.,Gordon,,Jamie Harris
 Agents of S.H.I.E.L.D.,Giyera,,Mark Dacascos
 Agents of S.H.I.E.L.D.,General Hale,,Catherine Dent
 Agents of S.H.I.E.L.D.,Daniel Sousa,,Enver Gjokaj
-Agents of S.H.I.E.L.D.,Billy Koenig,,Patton Oswalt
 Agents of S.H.I.E.L.D.,Andrew Garner,,Blair Underwood
 Agents of S.H.I.E.L.D.,Ghost Rider,,Gabriel Luna
 Agents of S.H.I.E.L.D.,Anton Ivanov,,Zach McGowan
@@ -194,459 +183,12 @@ Agents of S.H.I.E.L.D.,Nathaniel Malick,,Thomas E. Sullivan
 Agents of S.H.I.E.L.D.,Kasius,,Dominic Rains
 Agents of S.H.I.E.L.D.,Ian Quinn,,David Conrad
 Agents of S.H.I.E.L.D.,Sinara,,Florence Faivre
-Agents of S.H.I.E.L.D.,Rosalind Price,,Constance Zimmer
-Agents of S.H.I.E.L.D.,Kara Lynn Palamas,,Maya Stojan
-Agents of S.H.I.E.L.D.,Werner von Strucker,,Spencer Treat Clark
-Agents of S.H.I.E.L.D.,Ava,,Tunisha Hubbard
-Agents of S.H.I.E.L.D.,Izel,,Karolina Wydra
-Agents of S.H.I.E.L.D.,J.T. James,,Axle Whitehead
-Agents of S.H.I.E.L.D.,Polly Hinton,,Lola Glaudini
-Agents of S.H.I.E.L.D.,Snowflake,,Brooke Williams
-Agents of S.H.I.E.L.D.,Jaco,,Winston James Francis
-Agents of S.H.I.E.L.D.,John Garrett,,Bill Paxton
-Agents of S.H.I.E.L.D.,Luke,,Tobias Jelinek
-Agents of S.H.I.E.L.D.,Ruby,,Dove Cameron
-Agents of S.H.I.E.L.D.,Qovas,,Peter Mensah
-Agents of S.H.I.E.L.D.,Lash,,Matthew Willig
-Agents of S.H.I.E.L.D.,Joey Gutierrez,,Juan Pablo Raba
-Agents of S.H.I.E.L.D.,Luther Banks,,Andrew Howard
-Agents of S.H.I.E.L.D.,Malachi,,Christopher James Baker
-Agents of S.H.I.E.L.D.,Agent Prince,,Ricardo Walker
-Agents of S.H.I.E.L.D.,Agent Anderson,,Alexander Wraith
-Agents of S.H.I.E.L.D.,Robin Hinton,,Lexy Kolker
-Agents of S.H.I.E.L.D.,Agent Diaz,,Geri-Nikole Love
-Agents of S.H.I.E.L.D.,Alisha Whitley,,Alicia Vela-Bailey
-Agents of S.H.I.E.L.D.,Carla Talbot,,Raquel Gardner
-Agents of S.H.I.E.L.D.,Kora,,Dianne Doan
-Agents of S.H.I.E.L.D.,Senator Ellen Nadeer,,Parminder Nagra
-Agents of S.H.I.E.L.D.,Eli Morrow,,José Zúñiga
-Agents of S.H.I.E.L.D.,Tess,,Eve Harlow
-Agents of S.H.I.E.L.D.,Dr. Marcus Benson,,Barry Shabaka Henley
-Agents of S.H.I.E.L.D.,Lucy Bauer,,Lilli Birdsell
-Agents of S.H.I.E.L.D.,Sibyl,,Tamara Taylor
-Agents of S.H.I.E.L.D.,Hope Mackenzie,,Jordan Rivera
-Agents of S.H.I.E.L.D.,Pax,,Matt O'Leary
-Agents of S.H.I.E.L.D.,Candice Lee,,Shontae Saldana
-Agents of S.H.I.E.L.D.,Robert Gonzales,,Edward James Olmos
-Agents of S.H.I.E.L.D.,Kebo,,Daz Crawford
-Agents of S.H.I.E.L.D.,Agent Oliver,,Mark Allan Stewart
-Agents of S.H.I.E.L.D.,Victoria Hand,,Saffron Burrows
-Agents of S.H.I.E.L.D.,Gabe Reyes,,Lorenzo James Henrie
-Agents of S.H.I.E.L.D.,Trevor Khan,,Shainu Bala
-Agents of S.H.I.E.L.D.,Grill,,Pruitt Taylor Vince
-Agents of S.H.I.E.L.D.,General Rick Stoner,,Patrick Warburton
-Agents of S.H.I.E.L.D.,Toad,,T.J. Alvarado
-Agents of S.H.I.E.L.D.,Boyle,,Scott Kruse
-Agents of S.H.I.E.L.D.,Agent Nathanson,,Blaise Miller
-Agents of S.H.I.E.L.D.,Kree Watch Commander,,Jay Hunter
-Agents of S.H.I.E.L.D.,Agent Julian,,Matthew Law
-Agents of S.H.I.E.L.D.,Jiaying's Assistant,,Brendan Wayne
-Agents of S.H.I.E.L.D.,Alistair Fitz,,David O'Hara
-Agents of S.H.I.E.L.D.,Tucker Shockley,,John Pyper-Ferguson
-Agents of S.H.I.E.L.D.,Felix Blake,,Titus Welliver
-Agents of S.H.I.E.L.D.,Jasper Sitwell,,Maximiliano Hernández
-Agents of S.H.I.E.L.D.,Edison Po,,Cullen Douglas
-Agents of S.H.I.E.L.D.,John Garrett,,James Paxton
-Agents of S.H.I.E.L.D.,Agent Keller,,Lucas Bryant
-Agents of S.H.I.E.L.D.,Vijay Nadeer,,Manish Dayal
-Agents of S.H.I.E.L.D.,President Ellis,,William Sadler
-Agents of S.H.I.E.L.D.,Joseph Bauer,,Kerr Smith
-Agents of S.H.I.E.L.D.,Agent O'Brien,,Derek Phillips
-Agents of S.H.I.E.L.D.,Atarah,,Sherri Saum
-Agents of S.H.I.E.L.D.,Ace Peterson,,Ajani Wrighster
-Agents of S.H.I.E.L.D.,Hugo,,Ward Roberts
+Agents of S.H.I.E.L.D.,Agent Sitwell,,Maximiliano Hernández
 Agents of S.H.I.E.L.D.,Maria Hill,,Cobie Smulders
-Agents of S.H.I.E.L.D.,Kenneth Turgeon,,Adam Kulbersh
-Agents of S.H.I.E.L.D.,Vincent,,Usman Ally
-Agents of S.H.I.E.L.D.,Lucio,,Gabriel Salvador
-Agents of S.H.I.E.L.D.,Tye,,Max E. Williams
-Agents of S.H.I.E.L.D.,Baal-Gad,,Christian Ochoa Lavernia
-Agents of S.H.I.E.L.D.,Isaiah,,Jan Uddin
-Agents of S.H.I.E.L.D.,Agent Kaminsky,,Jeffrey Muller
-Agents of S.H.I.E.L.D.,Kimball,,Katy M. O'Brian
-Agents of S.H.I.E.L.D.,Dr. List,,Henry Goodman
-Agents of S.H.I.E.L.D.,Hek-Sel,,Luke Massy
-Agents of S.H.I.E.L.D.,Chen,,Jen Kuo Sung
-Agents of S.H.I.E.L.D.,Robin,,Willow Hale
-Agents of S.H.I.E.L.D.,Scientist,,Aaron Fili
-Agents of S.H.I.E.L.D.,Recruit #1,,Jason Sweat
-Agents of S.H.I.E.L.D.,Kree Doctor,,Ryan R. Moos
-Agents of S.H.I.E.L.D.,Lady Sif,,Jaimie Alexander
-Agents of S.H.I.E.L.D.,Lorelei,,Elena Satine
-Agents of S.H.I.E.L.D.,Debbie,,Shannon Lucio
-Agents of S.H.I.E.L.D.,Professor Elliot Randolph,,Peter MacNicol
-Agents of S.H.I.E.L.D.,Donnie Gill,,Dylan Minnette
-Agents of S.H.I.E.L.D.,Jimmy Mackenzie,,Robert Belushi
-Agents of S.H.I.E.L.D.,Marcus Daniels,,Patrick Brennan
-Agents of S.H.I.E.L.D.,Dr. Streiten,,Ron Glass
+Agents of S.H.I.E.L.D.,Sif,Lady Sif,Jaimie Alexander
 Agents of S.H.I.E.L.D.,Peggy Carter,,Hayley Atwell
-Agents of S.H.I.E.L.D.,Wilfred 'Freddy' Malick,,Darren Barnet
-Agents of S.H.I.E.L.D.,Wilfred 'Freddy' Malick,,Neal Bledsoe
 Agents of S.H.I.E.L.D.,Nick Fury,Director Fury,Samuel L. Jackson
-Agents of S.H.I.E.L.D.,Isabelle 'Izzy' Hartley,,Lucy Lawless
-Agents of S.H.I.E.L.D.,Agent Calderon,,Kirk Acevedo
-Agents of S.H.I.E.L.D.,Frederick,,Dan Donohue
-Agents of S.H.I.E.L.D.,Tony Caine,,Jake Busey
-Agents of S.H.I.E.L.D.,Viola,,Nora Zehetner
-Agents of S.H.I.E.L.D.,Agent Shaw,,Charles Halford
-Agents of S.H.I.E.L.D.,Kree Captain,,Derek Mears
-Agents of S.H.I.E.L.D.,Samuel Voss,,Michael McGrady
-Agents of S.H.I.E.L.D.,Roxy Glass,,Tipper Newton
-Agents of S.H.I.E.L.D.,Main Guard,,Brandon Molale
-Agents of S.H.I.E.L.D.,General Jacobs,,Glenn Morshower
-Agents of S.H.I.E.L.D.,Stephanie Malick,,Bethany Joy Lenz
-Agents of S.H.I.E.L.D.,Ben,,Myko Olivier
-Agents of S.H.I.E.L.D.,Basha,,Rya Kihlstedt
-Agents of S.H.I.E.L.D.,Agent Brandon Gamble,,Stephen Bishop
-Agents of S.H.I.E.L.D.,Agent Ford,,Dawan Owens
-Agents of S.H.I.E.L.D.,Will Daniels,,Dillon Casey
-Agents of S.H.I.E.L.D.,Taryan,,Craig Parker
-Agents of S.H.I.E.L.D.,Li,,Byron Mann
-Agents of S.H.I.E.L.D.,Sebastian Derik,,Brian Van Holt
-Agents of S.H.I.E.L.D.,Christian Ward,,Tim DeKay
-Agents of S.H.I.E.L.D.,Faulnak,,Samuel Roukin
-Agents of S.H.I.E.L.D.,Chief Wellins,,Stewart Skelton
-Agents of S.H.I.E.L.D.,Lilla Mackenzie,,Paulina Lule
-Agents of S.H.I.E.L.D.,Young Gideon Malick,,Cameron Palatas
-Agents of S.H.I.E.L.D.,Gunner,,James Harvey Ward
-Agents of S.H.I.E.L.D.,Lieutenant Evans,,Zibby Allen
-Agents of S.H.I.E.L.D.,Burnell,,Taj Speights
-Agents of S.H.I.E.L.D.,John Mackenzie,,Sedale Threatt Jr.
-Agents of S.H.I.E.L.D.,Anton Petrov,,Ravil Isyanov
-Agents of S.H.I.E.L.D.,Zev,,Kaleti Williams
-Agents of S.H.I.E.L.D.,Gordon,,Fin Argus
-Agents of S.H.I.E.L.D.,Idaho,,Wilmer Calderon
-Agents of S.H.I.E.L.D.,Spectre 1,,Eric Schloesser
-Agents of S.H.I.E.L.D.,Kaya,,Portia Bartley
-Agents of S.H.I.E.L.D.,Durant,,Gabriel Sousa
-Agents of S.H.I.E.L.D.,Karine,,Samantha Cutaran
-Agents of S.H.I.E.L.D.,Serious Man,,David Weiss
-Agents of S.H.I.E.L.D.,Agent Kim,,Chen Tang
-Agents of S.H.I.E.L.D.,Long-Haired Gambler,,Douglas Bennett
-Agents of S.H.I.E.L.D.,Kirk Vogel,,Mark Atteberry
-Agents of S.H.I.E.L.D.,Bynum,,Bryan Keith
-Agents of S.H.I.E.L.D.,Spectre 2,,Kevin Alexander Stea
-Agents of S.H.I.E.L.D.,Lindsay,,Teodora Marcella
-Agents of S.H.I.E.L.D.,Dallas Wyatt,,Trenton Rostedt
-Agents of S.H.I.E.L.D.,The Vicar,,Isaac C. Singleton Jr.
-Agents of S.H.I.E.L.D.,Montalban,,Ski Carr
-Agents of S.H.I.E.L.D.,Aunt Mindy,,Nicole J. Butler
-Agents of S.H.I.E.L.D.,Dr. Goodman,,Imelda Corcoran
-Agents of S.H.I.E.L.D.,Diego,,Carlos Rivera Marchand
-Agents of S.H.I.E.L.D.,Agent Thomas,,Brent Bailey
-Agents of S.H.I.E.L.D.,Spectre 3,,Gina Gonsalves
-Agents of S.H.I.E.L.D.,Admiral Jolnes,,Mark Berry
-Agents of S.H.I.E.L.D.,Ernesto The Barber,,Ramon Hilario
-Agents of S.H.I.E.L.D.,Shepard,,Christopher Charles
-Agents of S.H.I.E.L.D.,Ethan,,Kris Lemche
-Agents of S.H.I.E.L.D.,Armed S.H.I.E.L.D. Guard,,Deren Tadlock
-Agents of S.H.I.E.L.D.,Maston-Dar,,Remington Hoffman
-Agents of S.H.I.E.L.D.,Gretchen,,Michele Tobin
-Agents of S.H.I.E.L.D.,Agent Wahl,,Dominic Daniel
-Agents of S.H.I.E.L.D.,Tinker,,Xavier Jimenez
-Agents of S.H.I.E.L.D.,Chris Adler,,Skyler James Sandak
-Agents of S.H.I.E.L.D.,George Talbot,,Jack Fisher
-Agents of S.H.I.E.L.D.,Agent More,,Miguel A. Lopez
-Agents of S.H.I.E.L.D.,Katya,,Ava Acres
-Agents of S.H.I.E.L.D.,News Reporter,,Liberte Chan
-Agents of S.H.I.E.L.D.,Victoria Hand,,Rachele Schank
-Agents of S.H.I.E.L.D.,Agent Phelps,,Anthony D. Washington
-Agents of S.H.I.E.L.D.,Lars,,Jessen Noviello
-Agents of S.H.I.E.L.D.,Tiny,,Paul Sanchez
-Agents of S.H.I.E.L.D.,Lieutenant Decker,,Parisa Fakhri
-Agents of S.H.I.E.L.D.,George Stephanopoulos,,George Stephanopoulos
-Agents of S.H.I.E.L.D.,Camilla Reyes,,Leonor Varela
-Agents of S.H.I.E.L.D.,Tobias,,Robert Baker
-Agents of S.H.I.E.L.D.,Tony Diaz,,Vincent Laresca
-Agents of S.H.I.E.L.D.,Akela Amador,,Pascale Armand
-Agents of S.H.I.E.L.D.,Dr. Franklin Hall,,Ian Hart
-Agents of S.H.I.E.L.D.,Jakob Nystrom,,Michael Graziadei
-Agents of S.H.I.E.L.D.,Hannah,,Laura Seay
-Agents of S.H.I.E.L.D.,Archeologist,,Carlos Leal
-Agents of S.H.I.E.L.D.,Chan Ho Yin,,Louis Ozawa
-Agents of S.H.I.E.L.D.,Kropsky,,Michael Klesic
-Agents of S.H.I.E.L.D.,Audrey Nathan,,Amy Acker
-Agents of S.H.I.E.L.D.,Lloyd Rathman,,Rob Huebel
-Agents of S.H.I.E.L.D.,Olga Pachinko,,Jolene Andersen
-Agents of S.H.I.E.L.D.,Petra Larsen,,Erin Way
-Agents of S.H.I.E.L.D.,Vladimir,,Ilia Volok
-Agents of S.H.I.E.L.D.,Qasim's Translator,,Assaf Cohen
-Agents of S.H.I.E.L.D.,Taylor,,Christopher Gehrman
-Agents of S.H.I.E.L.D.,Inn Keeper,,Julia Emelin
-Agents of S.H.I.E.L.D.,Baker,,Robert Maffia
-Agents of S.H.I.E.L.D.,Seth Dormer,,Daniel Zovatto
-Agents of S.H.I.E.L.D.,Luca Russo,,Carlo Rota
-Agents of S.H.I.E.L.D.,Virgil,,Deniz Akdeniz
-Agents of S.H.I.E.L.D.,Russell Feldman,,Austin Basis
-Agents of S.H.I.E.L.D.,Laura Hayward,,Molly McCook
-Agents of S.H.I.E.L.D.,Miles Lydon,,Austin Nichols
-Agents of S.H.I.E.L.D.,Gary,,Bob Stephenson
-Agents of S.H.I.E.L.D.,Roger,,Josh Clark
-Agents of S.H.I.E.L.D.,Armed Guard,,Nick Gracer
-Agents of S.H.I.E.L.D.,Todd Chesterfield,,Scott Subiono
-Agents of S.H.I.E.L.D.,Adam Cross,,Rick Gifford
-Agents of S.H.I.E.L.D.,Young Grant,,Trenton Rogers
-Agents of S.H.I.E.L.D.,Marta,,Alison White
-Agents of S.H.I.E.L.D.,Cusi,,Anthony Dilio
-Agents of S.H.I.E.L.D.,Dum Dum Dugan,,Neal McDonough
-Agents of S.H.I.E.L.D.,Sofia,,Emily Baldoni
-Agents of S.H.I.E.L.D.,Karla Faye Gideon,,Drea de Matteo
-Agents of S.H.I.E.L.D.,Vin-Tak,,Eddie McClintock
-Agents of S.H.I.E.L.D.,Mr. Kitson,,Anthony Michael Hall
-Agents of S.H.I.E.L.D.,Cricket,,Ryan Donowho
-Agents of S.H.I.E.L.D.,Captain William Dole,,Joe Reegan
-Agents of S.H.I.E.L.D.,Dr. Pascal Vega,,Julian Acosta
-Agents of S.H.I.E.L.D.,Englishman,,Dominic Burgess
-Agents of S.H.I.E.L.D.,Agent Quan,,Tzi Ma
-Agents of S.H.I.E.L.D.,Vilca,,Celestino Cornielle
-Agents of S.H.I.E.L.D.,Boy,,Micah Nelson
-Agents of S.H.I.E.L.D.,Justin,,David Michael Paul
-Agents of S.H.I.E.L.D.,Officer,,Mickey Maxwell
-Agents of S.H.I.E.L.D.,Callie Hannigan,,Maiara Walsh
-Agents of S.H.I.E.L.D.,Rooster,,Dylan Bruno
-Agents of S.H.I.E.L.D.,Lian May,,Tsai Chin
-Agents of S.H.I.E.L.D.,Mancini,,T.J. Ramini
-Agents of S.H.I.E.L.D.,Agent Barbour,,Dayo Ade
-Agents of S.H.I.E.L.D.,Older Man,,Jeris Poindexter
-Agents of S.H.I.E.L.D.,Mr. Cardozo,,Ruben Rabasa
-Agents of S.H.I.E.L.D.,Ruben Mackenzie,,Gaius Charles
-Agents of S.H.I.E.L.D.,Anon,,Camille De Pazzis
-Agents of S.H.I.E.L.D.,L.T. Koenig,,Artemis Pebdani
-Agents of S.H.I.E.L.D.,Julia Price,,Jade Harlow
-Agents of S.H.I.E.L.D.,Jerry,,Peter A. Hulne
-Agents of S.H.I.E.L.D.,Sequoia,,Maurissa Tancharoen
-Agents of S.H.I.E.L.D.,Gerald Sharpe,,Michael Gaston
-Agents of S.H.I.E.L.D.,Tom,,Larry Clarke
-Agents of S.H.I.E.L.D.,Maynard,,Alex Neustaedter
-Agents of S.H.I.E.L.D.,Agent Tyler,,Josh Cowdery
-Agents of S.H.I.E.L.D.,Martha,,Beth Kennedy
-Agents of S.H.I.E.L.D.,Brian Hayward,,Paul Lacovara
-Agents of S.H.I.E.L.D.,Debonair Gentleman,,Stan Lee
-Agents of S.H.I.E.L.D.,Dr. Jazuat,,Sarayu Blue
-Agents of S.H.I.E.L.D.,Rosie,,Alicia Lagano
-Agents of S.H.I.E.L.D.,Agent Jacobson,,James MacDonald
-Agents of S.H.I.E.L.D.,Agent Lumley,,Boyd Kestner
-Agents of S.H.I.E.L.D.,William May,,James Hong
-Agents of S.H.I.E.L.D.,Officer Carvalho,,Markell Andrew
-Agents of S.H.I.E.L.D.,Charles Hinton,,Bjorn Johnson
-Agents of S.H.I.E.L.D.,Watchdog Alpha,,Justin Morck
-Agents of S.H.I.E.L.D.,Abby,,Ciara Bravo
-Agents of S.H.I.E.L.D.,Motel Clerk,,Tom Virtue
-Agents of S.H.I.E.L.D.,Lead SVR Agent,,Stivi Paskoski
-Agents of S.H.I.E.L.D.,Pretorious Pryce,,Clark Middleton
-Agents of S.H.I.E.L.D.,Thomas,,Robb Derringer
-Agents of S.H.I.E.L.D.,Angry Man,,Aaron Behr
-Agents of S.H.I.E.L.D.,Prison Guard,,Rico Devereaux
-Agents of S.H.I.E.L.D.,Neils,,Toby Wilson
-Agents of S.H.I.E.L.D.,Agent Mack,,Bodie Newcomb
-Agents of S.H.I.E.L.D.,Thomas Nash,,Brad Dourif
-Agents of S.H.I.E.L.D.,Hank Thompson,,Joel Gretsch
-Agents of S.H.I.E.L.D.,Vanchat,,Aiden Turner
-Agents of S.H.I.E.L.D.,Trooper,,Allan Graf
-Agents of S.H.I.E.L.D.,Marcus Scarlotti,,Falk Hentschel
-Agents of S.H.I.E.L.D.,Kyle Zeller,,Josh Daugherty
-Agents of S.H.I.E.L.D.,Alpha,,J. Michael Silver
-Agents of S.H.I.E.L.D.,Tim Maguire,,Mackenzie Astin
-Agents of S.H.I.E.L.D.,Lord Thornally,,Alex Hyde-White
-Agents of S.H.I.E.L.D.,Spud,,Daniel Feuerriegel
-Agents of S.H.I.E.L.D.,Wendell Levi,,Ric Sarabia
-Agents of S.H.I.E.L.D.,Bruno,,Danny Lopes
-Agents of S.H.I.E.L.D.,Edwin Abbott,,Wolfgang Bodison
-Agents of S.H.I.E.L.D.,Canelo,,Daniel Zacapa
-Agents of S.H.I.E.L.D.,Maria,,Valery M. Ortiz
-Agents of S.H.I.E.L.D.,Santino Noguera,,Rolando Molina
-Agents of S.H.I.E.L.D.,Yuri Zaikin,,Turhan Troy Caylak
-Agents of S.H.I.E.L.D.,Agent Pinksy,,Brandon Morales
-Agents of S.H.I.E.L.D.,Jones,,Nathin Art Butler
-Agents of S.H.I.E.L.D.,Lieutenant Lucas,,Joe Layton
-Agents of S.H.I.E.L.D.,Amy,,Stella Gregg
-Agents of S.H.I.E.L.D.,Noah,,Joel David Moore
-Agents of S.H.I.E.L.D.,Tillman,,Greg Finley
-Agents of S.H.I.E.L.D.,Lt. Carpenter,,Christian Gehring
-Agents of S.H.I.E.L.D.,Joe,,Philip Alexander
-Agents of S.H.I.E.L.D.,Copper,,Christopher Wallinger
-Agents of S.H.I.E.L.D.,Chip Womack,,Karl Girolamo
-Agents of S.H.I.E.L.D.,Bjorn,,Josh Diogo
-Agents of S.H.I.E.L.D.,Qasim Zaghlul,,Vachik Mangassarian
-Agents of S.H.I.E.L.D.,Toshiro Mori,,Brian Tee
-Agents of S.H.I.E.L.D.,Emily Deville,,Felisha Terrell
-Agents of S.H.I.E.L.D.,Agent Rebecca Stevens,,Monique Gabriela Curnen
-Agents of S.H.I.E.L.D.,Chad,,Jeff Corbett
-Agents of S.H.I.E.L.D.,Gabriel Soto,,Diego Serrano
-Agents of S.H.I.E.L.D.,Diaz,,Paul Elia
-Agents of S.H.I.E.L.D.,Agent Tanner,,Rich Paul
-Agents of S.H.I.E.L.D.,Beta,,Jake Newton
-Agents of S.H.I.E.L.D.,Agent Jones,,Braden Moran
-Agents of S.H.I.E.L.D.,John Donnelly,,Daniel Roebuck
-Agents of S.H.I.E.L.D.,Octavian Bloom,,Fred Dryer
-Agents of S.H.I.E.L.D.,Steve Wilson,,Nelson Franklin
-Agents of S.H.I.E.L.D.,Honest Eddie,,Stoney Westmoreland
-Agents of S.H.I.E.L.D.,Francis Noche,,Geo Corvera
-Agents of S.H.I.E.L.D.,Tiago,,Ben Griesse
-Agents of S.H.I.E.L.D.,Agent Harlan,,Brandon Keener
-Agents of S.H.I.E.L.D.,Aida,,Amanda Rea
-Agents of S.H.I.E.L.D.,Kevin,,Robbie Silverman
-Agents of S.H.I.E.L.D.,Watchdog Oscar,,Jonathan Camp
-Agents of S.H.I.E.L.D.,Pete Boggs,,Trevor Torseth
-Agents of S.H.I.E.L.D.,The Amazing Mertz,,Derek Hughes
-Agents of S.H.I.E.L.D.,Holt,,James Babson
-Agents of S.H.I.E.L.D.,Guard,,Frederick Lawrence
-Agents of S.H.I.E.L.D.,Agent Slate,,Chad T. Wood
-Agents of S.H.I.E.L.D.,Committee Chairperson,,Chuck McCollum
-Agents of S.H.I.E.L.D.,Agent McCafferty,,Alastair Bayardo
-Agents of S.H.I.E.L.D.,Dr. Van Kempen,,Paul Schackman
-Agents of S.H.I.E.L.D.,Officer Zbyszewski,,Kurt Koehler
-Agents of S.H.I.E.L.D.,Chronicom,,Luke Baines
-Agents of S.H.I.E.L.D.,Lana,,Stephanie Drapeau
-Agents of S.H.I.E.L.D.,Biff,,Zac Pullam
-Agents of S.H.I.E.L.D.,Tommy Chang,,John Yuan
-Agents of S.H.I.E.L.D.,Beautiful Woman,,Sarah Dumont
-Agents of S.H.I.E.L.D.,Camper #4,,Jake Brennan
-Agents of S.H.I.E.L.D.,Elena,,Sylvia Brindis
-Agents of S.H.I.E.L.D.,Katie Thompson,,Monica Lacy
-Agents of S.H.I.E.L.D.,Ott,,Joel Johnstone
-Agents of S.H.I.E.L.D.,Elias,,David Diaan
-Agents of S.H.I.E.L.D.,Agent Baylin,,Cameron Diskin
-Agents of S.H.I.E.L.D.,Nicole Mackenzie,,Julie Civiello
-Agents of S.H.I.E.L.D.,David Angar,,Jeff Daniel Phillips
-Agents of S.H.I.E.L.D.,Dwight Frye,,Chad Lindberg
-Agents of S.H.I.E.L.D.,Rowan Hamilton,,Markus Flanagan
-Agents of S.H.I.E.L.D.,Watchdog Victor,,D. Elliot Woods
-Agents of S.H.I.E.L.D.,Jackson,,Jean Paul San Pedro
-Agents of S.H.I.E.L.D.,Peng,,Steve Suh
-Agents of S.H.I.E.L.D.,Guard,,Sergio Enrique
-Agents of S.H.I.E.L.D.,Agent Crawford,,Kimberley Drummond
-Agents of S.H.I.E.L.D.,Agent Fisher,,Cantrell Harris
-Agents of S.H.I.E.L.D.,Airman Whitley,,Brennan Feonix
-Agents of S.H.I.E.L.D.,Reese,,Paul Duna
-Agents of S.H.I.E.L.D.,Senator Gaius Ponarian,,Patrick Fabian
-Agents of S.H.I.E.L.D.,Crixon,,Gabriel Hogan
-Agents of S.H.I.E.L.D.,Jan,,Eva La Dare
-Agents of S.H.I.E.L.D.,Professor Steger,,Graham Sibley
-Agents of S.H.I.E.L.D.,Getty,,Mark Fite
-Agents of S.H.I.E.L.D.,Viro,,Paul Telfer
-Agents of S.H.I.E.L.D.,Mystery Woman,,Alex Lombard
-Agents of S.H.I.E.L.D.,Agent King,,Shakira Barrera
-Agents of S.H.I.E.L.D.,Barb,,Peyton Woolf
-Agents of S.H.I.E.L.D.,Concierge,,Paul Rogan
-Agents of S.H.I.E.L.D.,Ronnie Chang,,Matt Yuan
-Agents of S.H.I.E.L.D.,Francisco,,Lucas Armendariz
-Agents of S.H.I.E.L.D.,Schneider,,Amir Talai
-Agents of S.H.I.E.L.D.,Eliza,,Emily Maya Mills
-Agents of S.H.I.E.L.D.,Bartender,,Cutter Garcia
-Agents of S.H.I.E.L.D.,Agent Noelle Walters,,Melanie Cruz
-Agents of S.H.I.E.L.D.,Thomas Ward,,Tyler Ritter
-Agents of S.H.I.E.L.D.,John Bruno,,Jamal Duff
-Agents of S.H.I.E.L.D.,Lori Henson,,Alexi Wasser
-Agents of S.H.I.E.L.D.,Agent Hart,,Terrell Tilford
-Agents of S.H.I.E.L.D.,Susanna,,Sai Lang
-Agents of S.H.I.E.L.D.,Yusef Hadad,,Ido Mor
-Agents of S.H.I.E.L.D.,Nathaniel Malick,,Joel Courtney
-Agents of S.H.I.E.L.D.,Undersecretary Walter Thomas,,Dorian Gregory
-Agents of S.H.I.E.L.D.,Prime Minister Olshenko,,Endre Hules
-Agents of S.H.I.E.L.D.,Diego,,Wilson Ramirez
-Agents of S.H.I.E.L.D.,Ex-Hydra Follower #1,,Lynn Longos
-Agents of S.H.I.E.L.D.,Elliot,,Tanner Fontana
-Agents of S.H.I.E.L.D.,Michelle Caldwell,,Shelley Robertson
-Agents of S.H.I.E.L.D.,Sunjna Nadeer,,Shari Vasseghi
-Agents of S.H.I.E.L.D.,Airman Richardson,,J. Michael Evans
-Agents of S.H.I.E.L.D.,Mouse,,Dusty Sorg
-Agents of S.H.I.E.L.D.,General Fischer,,Rocky McMurray
-Agents of S.H.I.E.L.D.,Qolpakc,,Darwin Shaw
-Agents of S.H.I.E.L.D.,Dana,,Sola Bamis
-Agents of S.H.I.E.L.D.,Javier,,David Bianchi
-Agents of S.H.I.E.L.D.,Franklin Delano Roosevelt,,Joseph Culp
-Agents of S.H.I.E.L.D.,Cop,,Tom Simmons
-Agents of S.H.I.E.L.D.,Tawni,,Lynden Orr
-Agents of S.H.I.E.L.D.,Ador,,Steve DeCastro
-Agents of S.H.I.E.L.D.,Jim Morita,,Kenneth Choi
-Agents of S.H.I.E.L.D.,Agent Hauer,,Lou Ferrigno Jr.
-Agents of S.H.I.E.L.D.,Theo,,Jesse D. Goins
-Agents of S.H.I.E.L.D.,Aunt Cindy,,Valorie Hubbard
-Agents of S.H.I.E.L.D.,Julien Beckers,,Michael Enright
-Agents of S.H.I.E.L.D.,Graham,,Richie Cottrell
-Agents of S.H.I.E.L.D.,Eva Belyakov,,Winter Ave Zoli
-Agents of S.H.I.E.L.D.,The Baroness,,Kathryn Leigh Scott
-Agents of S.H.I.E.L.D.,Shane Larson,,Nick Eversman
-Agents of S.H.I.E.L.D.,Case,,Cornelius Smith Jr.
-Agents of S.H.I.E.L.D.,Jerome Deschamps,,Hector Hugo
-Agents of S.H.I.E.L.D.,Lord Manzini,,Daniel Wolfe
-Agents of S.H.I.E.L.D.,Colonel Victor Ramon,,Yancey Arias
-Agents of S.H.I.E.L.D.,General Androvich,,Kristof Konrad
-Agents of S.H.I.E.L.D.,General Andaz,,Patrick John Hurley
-Agents of S.H.I.E.L.D.,Sergei,,Joris Jarsky
-Agents of S.H.I.E.L.D.,Gedrick,,Richard Whiten
-Agents of S.H.I.E.L.D.,Lady Karaba,,Erika Ervin
-Agents of S.H.I.E.L.D.,Doyle,,Graham Outerbridge
-Agents of S.H.I.E.L.D.,Sinara Guard,,Shon Lange
-Agents of S.H.I.E.L.D.,Baron Von Strucker,,Joey Defore
-Agents of S.H.I.E.L.D.,Qajax,,Andres Saenz Hudson
-Agents of S.H.I.E.L.D.,Officer Kennedy,,Antonio Aaron
-Agents of S.H.I.E.L.D.,Trok,,Glenn Keogh
-Agents of S.H.I.E.L.D.,Agent Mulcahey,,Cassandra Ballard
-Agents of S.H.I.E.L.D.,Dr. Grady,,John Lee Ames
-Agents of S.H.I.E.L.D.,Oscar,,Ricardo Cisneros
-Agents of S.H.I.E.L.D.,Rollo,,Dennis Keiffer
-Agents of S.H.I.E.L.D.,Jesse Fletcher,,Asif Ali
-Agents of S.H.I.E.L.D.,Adamo Dioli,,Joe Marinelli
-Agents of S.H.I.E.L.D.,Agent Rivera,,Al Coronel
-Agents of S.H.I.E.L.D.,Tat,,Devan Chandler Long
-Agents of S.H.I.E.L.D.,FSO Agent,,Roman Varshavsky
-Agents of S.H.I.E.L.D.,Xiao Chen,,Alexandra Bokyun Chun
-Agents of S.H.I.E.L.D.,Zhi,,David An
-Agents of S.H.I.E.L.D.,Darryl,,Preston Flagg
-Agents of S.H.I.E.L.D.,Father,,John Churchill
-Agents of S.H.I.E.L.D.,Mayan,,Jason Glover
-Agents of S.H.I.E.L.D.,Felix,,Samuel Barajas
-Agents of S.H.I.E.L.D.,Marilyn,,Rheagan Wallace
-Agents of S.H.I.E.L.D.,Mrs. Lee,,Kavita Patil
-Agents of S.H.I.E.L.D.,Rick,,Wes Armstrong
-Agents of S.H.I.E.L.D.,FBI Agent Jurmain,,Sheila Cutchlow
-Agents of S.H.I.E.L.D.,Estella,,Nayo Wallace
-Agents of S.H.I.E.L.D.,Agent Fox,,Levi Meaden
-Agents of S.H.I.E.L.D.,Amit,,Shalin Agarwal
-Agents of S.H.I.E.L.D.,Genesis,,Lauren de Miranda
-Agents of S.H.I.E.L.D.,Young Elena,,Sophie Rabe-Martinez
-Agents of S.H.I.E.L.D.,Mrs. Zeller,,Kyla Garcia
-Agents of S.H.I.E.L.D.,Bridget,,Alyce Tawil
-Agents of S.H.I.E.L.D.,Officer Anderson,,Meredith Bishop
-Agents of S.H.I.E.L.D.,The Sheikh,,Maz Siam
-Agents of S.H.I.E.L.D.,Officer Stuart,,Marco Martinez
-Agents of S.H.I.E.L.D.,Maitre d',,David L. King
-Agents of S.H.I.E.L.D.,Heavy,,Daniel Messier
-Agents of S.H.I.E.L.D.,Officer Bowie,,Scott Broderick
-Agents of S.H.I.E.L.D.,Ignacio,,Adrian Quiñonez
-Agents of S.H.I.E.L.D.,Leticia,,Stephanie Maura Sanchez
-Agents of S.H.I.E.L.D.,Ellen King,,Melissa Bickerton
-Agents of S.H.I.E.L.D.,Francisco Rodriguez,,Paul Lincoln Alayo
-Agents of S.H.I.E.L.D.,Blondie,,Ian Hutton
-Agents of S.H.I.E.L.D.,Agent Moore,,Christopher Showerman
-Agents of S.H.I.E.L.D.,Sivian Foreman,,Keelin Woodell
-Agents of S.H.I.E.L.D.,Alya,,Harlow Happy Hexum
-Agents of S.H.I.E.L.D.,Marcus,,Marcus Jordan
-Agents of S.H.I.E.L.D.,Stoner Chronicom,,David Flynn
-Agents of S.H.I.E.L.D.,Olaf,,Brian Orosco
-Agents of S.H.I.E.L.D.,Roger Browning,,Matthew Glave
-Agents of S.H.I.E.L.D.,General Cole,,Ian Gregory
-Agents of S.H.I.E.L.D.,Colonel,,Houshang Touzie
-Agents of S.H.I.E.L.D.,Tina Adams,,Katie Hilliard
-Agents of S.H.I.E.L.D.,Assistant,,Shannon Hollander
-Agents of S.H.I.E.L.D.,Young Gordon,,Philip Labes
-Agents of S.H.I.E.L.D.,Michael,,David Douglas
-Agents of S.H.I.E.L.D.,Selwyn,,Landall Goolsby
-Agents of S.H.I.E.L.D.,Briggs,,Dale Pavinski
-Agents of S.H.I.E.L.D.,Haruto Yakimura,,Tohoru Masamune
-Agents of S.H.I.E.L.D.,Laura,,Emily Peck
-Agents of S.H.I.E.L.D.,Doctor Ford,,Lyn Alicia Henderson
-Agents of S.H.I.E.L.D.,Harold Simcoe,,Phil Abrams
-Agents of S.H.I.E.L.D.,Greaseball,,Galen Howard
-Agents of S.H.I.E.L.D.,Brick,,Adam Dunnells
-Agents of S.H.I.E.L.D.,Yat-Sen,,Alvin Ing
-Agents of S.H.I.E.L.D.,Agent Harris,,Kyle Mattocks
-Agents of S.H.I.E.L.D.,Nathi Zuma,,Bayo Akinfemi
-Agents of S.H.I.E.L.D.,Dr. Lingenfelter,,Dale Waddington
-Agents of S.H.I.E.L.D.,Dr. Wilton,,Stephanie Nash
-Agents of S.H.I.E.L.D.,Private Tilden,,JB Tadena
+Agents of S.H.I.E.L.D.,Timothy 'Dum Dum' Dugan,,Neal McDonough
 Thor: The Dark World,God of Thunder,Hammer,Chris Hemsworth
 Thor: The Dark World,Jane Foster,,Natalie Portman
 Thor: The Dark World,Loki,God of mischief,Tom Hiddleston
@@ -661,7 +203,6 @@ Thor: The Dark World,Frigga,Queen Frigga,Rene Russo
 Thor: The Dark World,Algrim,Kurse,Adewale Akinnuoye-Agbaje
 Thor: The Dark World,Darcy Lewis,,Kat Dennings
 Thor: The Dark World,Erik Selvig,,Stellan Skarsgård
-Thor: The Dark World,John,,Ramone Morgan
 Captain America: The Winter Soldier,Steve Rogers,Captain America,Chris Evans
 Captain America: The Winter Soldier,Nick Fury,Director Fury,Samuel L. Jackson
 Captain America: The Winter Soldier,Natasha Romanoff,Black Widow,Scarlett Johansson
@@ -670,14 +211,12 @@ Captain America: The Winter Soldier,Bucky Barnes,Winter Soldier,Sebastian Stan
 Captain America: The Winter Soldier,Sam Wilson,Falcon,Anthony Mackie
 Captain America: The Winter Soldier,Maria Hill,,Cobie Smulders
 Captain America: The Winter Soldier,Brock Rumlow,,Frank Grillo
-Captain America: The Winter Soldier,Jasper Sitwell,,Maximiliano Hernández
+Captain America: The Winter Soldier,Agent Sitwell,,Maximiliano Hernández
 Captain America: The Winter Soldier,Peggy Carter,,Hayley Atwell
 Captain America: The Winter Soldier,Dr. Arnim Zola,,Toby Jones
 Captain America: The Winter Soldier,Jack Rollins,,Callan Mulvey
 Captain America: The Winter Soldier,Senator Stern,,Garry Shandling
 Captain America: The Winter Soldier,Georges Batroc,,Georges St-Pierre
-Captain America: The Winter Soldier,Engine Pirate,,Zack Duhame
-Captain America: The Winter Soldier,Skinny Steve,,Christopher George Sarris
 Guardians of the Galaxy,Peter Quill,,Chris Pratt
 Guardians of the Galaxy,Gamora,,Zoe Saldana
 Guardians of the Galaxy,Drax,,Dave Bautista
@@ -690,8 +229,6 @@ Guardians of the Galaxy,Korath,,Djimon Hounsou
 Guardians of the Galaxy,Nova Prime,,Glenn Close
 Guardians of the Galaxy,The Collector,,Benicio Del Toro
 Guardians of the Galaxy,Meredith Quill,,Laura Haddock
-Guardians of the Galaxy,Kraglin,On Set Rocket,Sean Gunn
-Guardians of the Galaxy,On Set Groot,,Krystian Godlewski
 Guardians of the Galaxy Vol. 2,Peter Quill,Star-Lord,Chris Pratt
 Guardians of the Galaxy Vol. 2,Gamora,,Zoe Saldana
 Guardians of the Galaxy Vol. 2,Drax,,Dave Bautista
@@ -730,9 +267,6 @@ Daredevil,Sergei,,David Vadim
 Daredevil,Jerry,,Ray Iannicelli
 Daredevil,Rosalie Carbone,,Annabella Sciorra
 Daredevil,Jeri Hogarth,,Carrie-Anne Moss
-Daredevil,Todd,,Will Stout
-Daredevil,Ruby,,Monica Bell
-Daredevil,Thomas,,Cliff Moylan
 Jessica Jones,Jessica Jones,,Krysten Ritter
 Jessica Jones,Trish Walker,Hellcat,Rachael Taylor
 Jessica Jones,Malcolm Ducasse,,Eka Darville
@@ -796,7 +330,7 @@ Jessica Jones,Barbara Shlottman,,Deborah Hedwall
 Jessica Jones,Doctor David Kurata,,Thom Sesma
 Jessica Jones,Eric Ambrose,,Da'Vinchi
 Avengers: Age of Ultron,Tony Stark,Iron Man,Robert Downey Jr.
-Avengers: Age of Ultron,God of Thunder,Hammer,Chris Hemsworth
+Avengers: Age of Ultron,Thor,God of Thunder,Chris Hemsworth
 Avengers: Age of Ultron,Bruce Banner,Hulk,Mark Ruffalo
 Avengers: Age of Ultron,Steve Rogers,Captain America,Chris Evans
 Avengers: Age of Ultron,Natasha Romanoff,Black Widow,Scarlett Johansson
@@ -1180,7 +714,7 @@ Ant-Man and the Wasp,Young Bill,,Langston Fishburne
 Ant-Man and the Wasp,Young Ava,,RaeLynn Bratten
 Ant-Man and the Wasp,Young Hope,,Madeleine McGraw
 Avengers: Infinity War,Tony Stark,Iron Man,Robert Downey Jr.
-Avengers: Infinity War,God of Thunder,Hammer,Chris Hemsworth
+Avengers: Infinity War,Thor,God of Thunder,Chris Hemsworth
 Avengers: Infinity War,Bruce Banner,Hulk,Mark Ruffalo
 Avengers: Infinity War,Steve Rogers,Captain America,Chris Evans
 Avengers: Infinity War,Natasha Romanoff,Black Widow,Scarlett Johansson
@@ -1208,7 +742,7 @@ Avengers: Infinity War,The Collector,,Benicio Del Toro
 Avengers: Infinity War,Thanos,,Josh Brolin
 Avengers: Infinity War,Peter Quill,Star-Lord,Chris Pratt
 Avengers: Infinity War,On-Set Rocket,,Sean Gunn
-Avengers: Infinity War,Secretary of State Thaddeus Ross,,William Hurt
+Avengers: Infinity War,Secretary Ross,,William Hurt
 Avengers: Infinity War,Shuri,,Letitia Wright
 Avengers: Infinity War,Cull Obsidian,On-Set Groot,Terry Notary
 Avengers: Infinity War,Ebony Maw,,Tom Vaughan-Lawlor
@@ -1223,18 +757,15 @@ Avengers: Infinity War,Cindy,,Tiffany Espensen
 Avengers: Infinity War,Sally,,Isabella Amara
 Avengers: Infinity War,Tiny,,Ethan Dizon
 Avengers: Infinity War,Young Gamora,,Ariana Greenblatt
-Avengers: Infinity War,Red Skull (Stonekeeper),,Ross Marquand
+Avengers: Infinity War,Johann Schmidt, Red Skull (Stonekeeper),Ross Marquand
 Helstrom,Daimon Helstrom,,Tom Austen
 Helstrom,Ana Helstrom,,Sydney Lemmon
 Helstrom,Victoria Helstrom,,Elizabeth Marvel
 Helstrom,Gabriella Rosetti,,Ariana Guerra
 Helstrom,Dr. Louise Hastings,,June Carryl
-Helstrom,Caretaker,,Robert Wisdom
 Helstrom,Chris Yen,,Alain Uy
 Helstrom,Keith Spivey,,Daniel Cudmore
 Helstrom,Father Joshua Crow,,Trevor Roberts
-Helstrom,Young Ana,,Erica Tremblay
-Helstrom,Young Daimon,,Nolan Hupp
 Helstrom,Finn,,David Meunier
 Helstrom,Esther,,Deborah Van Valkenburgh
 Helstrom,Bryce,,Zachary S. Williams
@@ -1257,7 +788,7 @@ Helstrom,Ahmad,,Shekhar Paleja
 Avengers: Endgame,Tony Stark,Iron Man,Robert Downey Jr.
 Avengers: Endgame,Steve Rogers,Captain America,Chris Evans
 Avengers: Endgame,Bruce Banner,Hulk,Mark Ruffalo
-Avengers: Endgame,God of Thunder,Hammer,Chris Hemsworth
+Avengers: Endgame,Thor,God of Thunder,Chris Hemsworth
 Avengers: Endgame,Natasha Romanoff,Black Widow,Scarlett Johansson
 Avengers: Endgame,Clint Barton,Hawkeye,Jeremy Renner
 Avengers: Endgame,James Rhodes,War Machine,Don Cheadle
@@ -1309,14 +840,14 @@ Avengers: Endgame,Thanos,,Josh Brolin
 Avengers: Endgame,Peter Quill,Star-Lord,Chris Pratt
 Avengers: Endgame,Nick Fury,Director Fury,Samuel L. Jackson
 Avengers: Endgame,Morgan Stark,,Lexi Rabe
-Avengers: Endgame,Red Skull (Stonekeeper),,Ross Marquand
+Avengers: Endgame,Johann Schmidt, Red Skull (Stonekeeper),Ross Marquand
 Avengers: Endgame,Cassie Lang,,Emma Fuhrmann
 Avengers: Endgame,Corvus Glaive,,Michael James Shaw
 Avengers: Endgame,Friday,,Kerry Condon
 Avengers: Endgame,Cooper Barton,,Ben Sakamoto
 Avengers: Endgame,Lila Barton,,Ava Russo
 Avengers: Endgame,Nathaniel Barton,,Cade Woodward
-Loki,Loki,od of mischief,Tom Hiddleston
+Loki,Loki,God of mischief,Tom Hiddleston
 Loki,Casey,,Eugene Cordero
 Loki,Ravonna Renslayer,,Gugu Mbatha-Raw
 Loki,Sylvie,,Sophia Di Martino
@@ -1356,17 +887,8 @@ What If...?,Howard the Duck,,Seth Green
 What If...?,Ego,,Kurt Russell
 What If...?,Secretary Ross,,Michael Patrick McGill
 What If...?,Peter Quill,,Brian T. Delaney
-What If...?,Additional Voices,,Chuck Billy
 What If...?,Shuri,,Ozioma Akagha
 What If...?,Ebony Maw,,Tom Vaughan-Lawlor
-What If...?,Additional Voices,,Kimberly Bailey
-What If...?,Additional Voices,,Ashley Peldon
-What If...?,Additional Voices,,Helen Sadler
-What If...?,Additional Voices,,Shane Sweet
-What If...?,Additional Voices,,June Christopher
-What If...?,Additional Voices,,Donald Fullilove
-What If...?,Additional Voices,,Justin Shaw
-What If...?,Additional Voices,,David Boat
 What If...?,Jane Foster,,Natalie Portman
 What If...?,Christine Palmer,,Rachel McAdams
 What If...?,Hank Pym,,Michael Douglas
@@ -1390,7 +912,7 @@ What If...?,Colonel Flynn,,Bradley Whitford
 What If...?,Rhodey,,Don Cheadle
 What If...?,The Collector,,Benicio Del Toro
 What If...?,Betty Ross,,Stephanie Panisello
-What If...?,Dum Dum Dugan,,Neal McDonough
+What If...?,Timothy 'Dum Dum' Dugan,,Neal McDonough
 What If...?,Sharon Carter,,Emily VanCamp
 What If...?,Kraglin,,Sean Gunn
 What If...?,Gamora,,Cynthia Kaye McWilliams
@@ -1492,8 +1014,6 @@ The Falcon and the Winter Soldier,Dr. Christina Raynor,,Amy Aquino
 The Falcon and the Winter Soldier,Cass,,Chase River McGhee
 The Falcon and the Winter Soldier,AJ,,Aaron Haynes
 The Falcon and the Winter Soldier,Eli Bradley,,Elijah Richardson
-The Falcon and the Winter Soldier,Ancient Shop Manager,,Gordon Danniels
-The Falcon and the Winter Soldier,Government Official,,Alphie Hyorth
 The Falcon and the Winter Soldier,Olivia Walker,,Gabrielle Byndloss
 The Falcon and the Winter Soldier,Valentina Allegra de Fontaine,,Julia Louis-Dreyfus
 The Falcon and the Winter Soldier,Mama Donya,,Veronica Falcón
@@ -1502,7 +1022,6 @@ The Falcon and the Winter Soldier,Nomble,,Janeshia Adams-Ginyard
 The Falcon and the Winter Soldier,Rudy,,Neal Kodinsky
 The Falcon and the Winter Soldier,Leah,,Miki Ishikawa
 The Falcon and the Winter Soldier,Yama,,Zola Williams
-The Falcon and the Winter Soldier,Loan Officer,,Vince Pisani
 The Falcon and the Winter Soldier,Senator Atwood,,Rebecca Lines
 The Falcon and the Winter Soldier,Crony,,Bryan Brendle
 The Falcon and the Winter Soldier,Major,,Jon Briddell
@@ -1514,7 +1033,7 @@ The Falcon and the Winter Soldier,Matias,,Ness Bautista
 The Falcon and the Winter Soldier,Unique,,Ian Gregg
 The Falcon and the Winter Soldier,Alonso Barber,,Mike Ray
 The Falcon and the Winter Soldier,Sara Haines,,Sara Haines
-Thor: Love and Thunder,God of Thunder,Hammer,Chris Hemsworth
+Thor: Love and Thunder,Thor,God of Thunder,Chris Hemsworth
 Thor: Love and Thunder,Jane Foster,The Mighty Thor,Natalie Portman
 Thor: Love and Thunder,Gorr,The God Buthcher,Christian Bale
 Thor: Love and Thunder,King Valkyrie,,Tessa Thompson
@@ -1535,10 +1054,10 @@ Thor: Love and Thunder,Asgardian Stagehand,,Suren Jayemanne
 Thor: Love and Thunder,Asgardian Stagehand,,Natasha Cheng
 Thor: Love and Thunder,Hercules,,Brett Goldstein
 Thor: Love and Thunder,King Yakan,,Stephen Curry
-Thor: Love and Thunder,Selvig,,Stellan Skarsgård
+Thor: Love and Thunder,Erik Selvig,,Stellan Skarsgård
 Thor: Love and Thunder,Habooska the Horrible,,Bobby Holland Hanton
 Peter's To-Do List,Peter Parker,Spider-Man,Tom Holland
-Peter's To-Do List,Ned Leeds,,Jacob Batalon
+Peter's To-Do List,Ned,,Jacob Batalon
 Peter's To-Do List,Mr. Delmar,,Hemky Madera
 Peter's To-Do List,Flash Thompson,,Tony Revolori
 Spider-Man: Far from Home,Peter Parker,Spider-Man,Tom Holland
@@ -1590,7 +1109,7 @@ Spider-Man: No Way Home,Mr. Harrington,,Martin Starr
 Spider-Man: No Way Home,Mr. Dell,,J.B. Smoove
 Spider-Man: No Way Home,J. Jonah Jameson,,J.K. Simmons
 Spider-Man: No Way Home,Dr. Curt Connors,The Lizard,Rhys Ifans
-Spider-Man: No Way Home,Matt Murdock,,Charlie Cox
+Spider-Man: No Way Home,Matt Murdock,Daredevil,Charlie Cox
 Spider-Man: No Way Home,Flint Marko,Sandman,Thomas Haden Church
 Doctor Strange in the Multiverse of Madness,Dr. Stephen Strange,Doctor strange,Benedict Cumberbatch
 Doctor Strange in the Multiverse of Madness,Wanda Maximoff,The Scarlet Witch,Elizabeth Olsen
@@ -1601,7 +1120,7 @@ Doctor Strange in the Multiverse of Madness,Dr. Christine Palmer,,Rachel McAdams
 Doctor Strange in the Multiverse of Madness,Tommy Maximoff,,Jett Klyne
 Doctor Strange in the Multiverse of Madness,Billy Maximoff,,Julian Hilliard
 Doctor Strange in the Multiverse of Madness,Dr. Nic West,,Michael Stuhlbarg
-Doctor Strange in the Multiverse of Madness,Peggy Carter,Agent Carter,Hayley Atwell
+Doctor Strange in the Multiverse of Madness,Peggy Carter-AR,Agent Carter,Hayley Atwell
 Doctor Strange in the Multiverse of Madness,Black Bolt,,Anson Mount
 Doctor Strange in the Multiverse of Madness,Carol Denvers,Captain Marvel,Lashana Lynch
 Doctor Strange in the Multiverse of Madness,Reed Richards,,John Krasinski
